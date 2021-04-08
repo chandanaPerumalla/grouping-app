@@ -1,3 +1,5 @@
+package com.mavrck.assessment;
+
 import com.mavrck.assessment.app.GroupingApp;
 import com.mavrck.assessment.utils.ColumnNameMapper;
 import org.apache.commons.cli.*;

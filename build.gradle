@@ -19,7 +19,7 @@ dependencies {
 
 jar {
     manifest {
-        attributes "Main-Class": "GroupingEntry"
+        attributes "Main-Class": "com.mavrck.assessment.GroupingEntry"
     }
 
     from {
